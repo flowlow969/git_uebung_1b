@@ -1,4 +1,7 @@
 Hello Git!
 
 Git ist ein Versionsvsrwaltungs Program um Text Dateien zu verwalten.
+
 Dabei kann sowohl lokal gearbeitet werden als auch remote in Kollaboration mit andern.
+
+Dabei kann sehr einfach und effizient mit CLI Eingaben gearbeitet werden.
