@@ -1,2 +1,3 @@
 Hello Git!
 
+Git ist ein Versionsvsrwaltungs program um text Latein zu verwalten.
